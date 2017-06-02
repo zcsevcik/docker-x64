@@ -15,5 +15,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     flex \
     bison \
     re2c \
-    lemon
+    lemon \
+    googletest \
+
 
